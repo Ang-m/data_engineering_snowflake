@@ -2,7 +2,7 @@
 **Data Engineer | Analytics Engineer | Business Intelligence**
 
 angshuman_mazumdar@hotmail.com | +91 8197590010 | Bengaluru, India | Open to Remote (UTC+5:30)
-linkedin.com/in/angshuman-mazumdar | github.com/[YOUR-GITHUB-USERNAME]
+linkedin.com/in/angshuman-mazumdar | github.com/Ang-m
 
 ---
 
@@ -10,11 +10,12 @@ linkedin.com/in/angshuman-mazumdar | github.com/[YOUR-GITHUB-USERNAME]
 
 Data Engineering professional with 8+ years of experience building data pipelines, BI systems,
 and analytics platforms that directly impact business outcomes. Snowflake Certified Data Engineer
-with hands-on expertise in cloud data warehousing (Snowflake), ETL/ELT pipeline development,
-SQL, Python (Snowpark), and real-time dashboards. Proven leader who has driven 110%+ net
-revenue retention and mentored analytics teams across high-growth startups. Brings a rare
-combination of technical depth and business fluency — translating raw data into executive-level
-insights. Actively building expertise in dbt, Airflow, and modern data stack tooling.
+and Docker Foundations Certified with hands-on expertise in cloud data warehousing (Snowflake),
+containerized pipeline deployment (Docker, Docker Compose), ETL/ELT development, dbt, SQL, and
+Python (Snowpark). Proven leader who has driven 110%+ net revenue retention and mentored
+analytics teams across high-growth startups. Brings a rare combination of technical depth and
+business fluency — translating raw data into executive-level insights. Actively building
+expertise in Airflow and AI-integrated data pipelines.
 
 ---
 
@@ -23,18 +24,20 @@ insights. Actively building expertise in dbt, Airflow, and modern data stack too
 | Category | Tools & Technologies |
 |---|---|
 | **Cloud Data Warehouse** | Snowflake (SnowPro Advanced Certified), Dynamic Tables, Streams, Snowpark, Tasks, Alerts |
-| **Data Engineering** | SQL, Python (pandas, requests), ETL/ELT Pipelines, Data Modeling, Star Schema |
-| **BI & Visualization** | Looker Studio, Power BI, Zoho Analytics, Streamlit, Altair |
+| **Data Engineering** | SQL, Python (pandas, requests), ETL/ELT Pipelines, dbt, Data Modeling, Star Schema |
+| **Containerization** | Docker, Docker Compose, Dockerfile, Container Orchestration |
+| **BI & Visualization** | Power BI, Looker Studio, Zoho Analytics, Streamlit, Altair |
 | **DevOps & CI/CD** | GitHub Actions, Snowflake CLI, Git, Version Control |
 | **Data Governance** | Data Quality Frameworks, Data Validation, Compliance Monitoring, Audit Pipelines |
 | **Analytics** | KPI Development, Trend Analysis, Root Cause Analysis, VOC Analysis, A/B Testing |
-| **Soft Skills** | Cross-functional Leadership, Stakeholder Management, Team Mentoring, MBR/QBR |
 
 ---
 
 ## CERTIFICATIONS
 
 **Cloud & Data Engineering**
+- **Docker Foundations Professional Certificate** | LinkedIn Learning | Mar 2026
+- **dbt Fundamentals** | dbt Labs | Mar 2026
 - **Data Engineering Professional Certificate** | Snowflake | Feb 2026
 - **Advanced Data Engineering with Snowflake** | LinkedIn Learning | Feb 2026
 - **Introduction to Modern Data Engineering with Snowflake** | LinkedIn Learning | Feb 2026
@@ -144,11 +147,11 @@ Sikkim Manipal University — Distance Education | 2012 – 2015 | Grade: A
 
 ## PORTFOLIO & PROJECTS
 
-**Real-Time Sales & Weather Analytics Platform** *(In Progress)*
-Stack: Snowflake · Snowpark Python · Dynamic Tables · Streamlit · GitHub Actions CI/CD · dbt
+**Real-Time Sales & Weather Analytics Platform**
+Stack: Snowflake · Snowpark Python · Dynamic Tables · dbt · Streamlit · Docker · GitHub Actions CI/CD
 - End-to-end pipeline ingesting weather and sales data, transforming via dbt models,
   surfacing insights via Streamlit dashboard with automated CI/CD deployment.
-- GitHub: github.com/[YOUR-GITHUB-USERNAME]/[REPO-NAME]
+- GitHub: github.com/Ang-m
 
 ---
 
@@ -171,6 +174,7 @@ STEP 1 — Adjust the PROFESSIONAL SUMMARY:
 STEP 2 — Reorder or emphasize TECHNICAL SKILLS:
   - Move the most relevant tool category to the top of the skills table
   - Add any tools from the JD that you have experience with
+  - For VNB/Microsoft stack roles: move Power BI up, add Azure if relevant
 
 STEP 3 — Prioritize EXPERIENCE bullets:
   - For Data Engineer roles: lead with pipeline, ETL, SQL, Snowflake bullets
@@ -182,8 +186,8 @@ STEP 4 — Add KEYWORDS from the JD naturally into bullet points:
   - E.g., if JD says "data pipeline orchestration", add it to a bullet
 
 STEP 5 — Update PORTFOLIO section:
-  - Add GitHub URL once repo is live
-  - If applying for a specific domain, add a project relevant to that domain
+  - Update GitHub URL to specific repo once project is live
+  - Remove generic profile link, replace with direct repo URL
 
 =============================================================================
 -->
